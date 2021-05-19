@@ -1,6 +1,6 @@
 # What's new in Flask 2.0
 
-This repo contains the code used in the []() post check it out to see some of the changes on Flask `2.0.0`. ;)
+This repo contains the code used in the ["What's New In Flask 2.0"](https://auth0.com/blog/whats-new-in-flask-2) blog post check it out to see some of the changes on Flask `2.0.0`. ;)
 
 ## Prerequisites
 
